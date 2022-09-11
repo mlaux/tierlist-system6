@@ -7,10 +7,12 @@ const atwiki_db = JSON.parse(fs.readFileSync('sp12.json'));
 
 function runConvert(text, filename) {
   spawnSync('convert', [
+    '-colorspace',
+    'gray',
     '-background',
-    'white',
-    '-fill',
     'black',
+    '-fill',
+    'white',
     '-font',
     'Hiragino-Sans-W3',
     '-pointsize',
@@ -71,20 +73,20 @@ for (let k = 0; k < atwiki_db.length; k++) {
 
   if (!isAscii(atwiki_song.title)) {
     console.log('generating title image for ' + atwiki_song.title);
-    runConvert(atwiki_song.title, `titles/${titleId}.pict`);
+    runConvert(atwiki_song.title, `titles/${titleId}.png`);
     atwiki_song.title_ascii = lookup.title_ascii;
     atwiki_song.title_pict = titleId++;
   }
 
   if (!isAscii(atwiki_song.artist)) {
     console.log('generating artist image for ' + atwiki_song.artist);
-    runConvert(atwiki_song.artist, `artists/${artistId}.pict`);
+    runConvert(atwiki_song.artist, `artists/${artistId}.png`);
     atwiki_song.artist_pict = artistId++;
   }
 
   if (!isAscii(atwiki_song.genre)) {
     console.log('generating genre image for ' + atwiki_song.genre);
-    runConvert(atwiki_song.genre, `genres/${genreId}.pict`);
+    runConvert(atwiki_song.genre, `genres/${genreId}.png`);
     atwiki_song.genre_pict = genreId++;
   }
 }
