@@ -1,25 +1,23 @@
 const fs = require('fs');
-const { write } = require('pngjs/lib/png-sync');
 const PNG = require('pngjs').PNG;
 
 /*
+  Tech Note 21: https://www.docjava.com/posterous/file/2012/07/9621873-out3.pdf
+  QuickDraw's Internal Picture Definition
 
-Tech Note 21: https://www.docjava.com/posterous/file/2012/07/9621873-out3.pdf
-QuickDraw's Internal Picture Definition
+  rect order is top left bottom right
 
-rect order is top left bottom right
-
-'PICT' (3) 0048 {size} OOOA 0014 OOAF 0078 {picFrame}
-1101 {version 1} 01 OOOA 0000 0000 OOFA 0190 {clipRgn - 10 byte region}
-31 OOOA 0014 OOAF 0078 {paintRect rectangle}
-90 0002 OOOA 0014 OOOF 001C {BitsRect rowbytes bounds (note that bounds is
-wider than smallr) }
-OOOA 0014 OOOF 0019 {srcRect}
-0000 0000 0014 001E {dstRect}
-00 06 {mode=notSrcXor}
-0000 0000 0000 0000 0000 {5 rows of empty bitmap (we copied from a
-still-blank window) }
-FF {fin}
+  'PICT' (3) 0048 {size} OOOA 0014 OOAF 0078 {picFrame}
+  1101 {version 1} 01 OOOA 0000 0000 OOFA 0190 {clipRgn - 10 byte region}
+  31 OOOA 0014 OOAF 0078 {paintRect rectangle}
+  90 0002 OOOA 0014 OOOF 001C {BitsRect rowbytes bounds (note that bounds is
+  wider than smallr) }
+  OOOA 0014 OOOF 0019 {srcRect}
+  0000 0000 0014 001E {dstRect}
+  00 06 {mode=notSrcXor}
+  0000 0000 0000 0000 0000 {5 rows of empty bitmap (we copied from a
+  still-blank window) }
+  FF {fin}
 
 
   width: 97,
@@ -63,51 +61,45 @@ function convertToPict(filename) {
     off++;
   }
 
+  function writeRect(top, left, bottom, right) {
+    write16(top);
+    write16(left);
+    write16(bottom);
+    write16(right);
+  }
+
   const rowBytes = 2 * Math.floor((image.width + 15) / 16);
   
   write16(0); // size placeholder
-  write16(0); // top
-  write16(0); // left
-  write16(image.height); // bottom
-  write16(image.width); // right
+  writeRect(0, 0, image.height, image.width); // frame
   
   write16(0x1101); // version
   
   // clip rect
-  write8(1);
+  write8(1); // opcode for clip rect
   write16(10); // length of clip region
-  write16(0); // top of clip region
-  write16(0); // left
-  write16(image.height); // bottom
-  write16(image.width); // right
+  writeRect(0, 0, image.height, image.width); // clip region
   
   write8(rowBytes >= 8 ? 0x98 : 0x90); // packed if 8 or more rowBytes
   write16(rowBytes); // row bytes
   
   // bounds
-  write16(0); // top of bits
-  write16(0); // left
-  write16(image.height); // bottom
-  write16(image.width); // right
+  writeRect(0, 0, image.height, image.width);
   
   // srcRect
-  write16(0); // top
-  write16(0); // left
-  write16(image.height); // bottom
-  write16(image.width); // right
+  writeRect(0, 0, image.height, image.width);
   
   // dstRect
-  write16(0); // top
-  write16(0); // left
-  write16(image.height); // bottom
-  write16(image.width); // right
+  writeRect(0, 0, image.height, image.width);
   
   write16(0); // mode (srcCopy)
-  
-  //let unpacked = [], count = 0;
+
   for (let y = 0; y < image.height; y++) {
     if (rowBytes >= 8) {
       // "packed" scanlines with no packing
+      // first byte is number of bytes in the scanline
+      // second byte is a PackBits() command specifying `rowBytes - 1` bytes
+      // to be interpreted literally (no RLE)
       write8(rowBytes + 1);
       write8(rowBytes - 1);
     }
@@ -116,6 +108,8 @@ function convertToPict(filename) {
       let val = 0;
       for (let bit = 0; bit < 8; bit++) {
         if (8 * x + bit >= image.width) {
+          // possibly had to add at most 15 more bits so rowBytes is even
+          // if this is past the edge of the image, continue
           continue;
         }
   
@@ -128,18 +122,12 @@ function convertToPict(filename) {
     }
   }
   
-  write8(0xff); // end
-  out.writeInt16BE(off, 0); // fill in size
-  //fs.writeFileSync('out.pict', out.subarray(0, off));
+  write8(0xff); // end marker
+  out.writeInt16BE(off, 0); // fill in size at the beginning
   
-  const contents = out.subarray(0, off);
+  const truncated = out.subarray(0, off);
   const id = filename.substring(filename.indexOf('/') + 1, filename.indexOf('.'));
-  let res = `data 'PICT' (${id}) {\n`;
-  
-  res += formatResourceData(contents);
-
-  res += `};\n\n`;
-  return res;
+  return `data 'PICT' (${id}) {\n${formatResourceData(truncated)}};\n\n`;
 }
 
 function makeSongList(db) {
