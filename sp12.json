@@ -1,0 +1,4492 @@
+[
+  {
+    "tier": "undecided",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "GRAVITON",
+    "bpm": "185",
+    "notes": 1762,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "undecided",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Override(L)",
+    "bpm": "175",
+    "notes": 2204,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "undecided",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Umbral(L)",
+    "bpm": "138",
+    "notes": 1566,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "undecided",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "華爛漫 -Flowers-(L)",
+    "bpm": "160",
+    "notes": 1597,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "GuNGNiR(L)",
+    "bpm": "222",
+    "notes": 2443,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "KAMAITACHI(L)",
+    "bpm": "165",
+    "notes": 2000,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Mare Nectaris",
+    "bpm": "256",
+    "notes": 2094,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "n/a",
+    "bpm": "85-255(170)",
+    "notes": 1867,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Sigmund(L)",
+    "bpm": "200",
+    "notes": 2267,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Verflucht(L)",
+    "bpm": "180",
+    "notes": 2401,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "卑弥呼",
+    "bpm": "82-185(185)",
+    "notes": 2119,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "疾風迅雷(L)",
+    "bpm": "180",
+    "notes": 1824,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 19,
+    "title": "DIAVOLO",
+    "bpm": "160",
+    "notes": 1745,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "Plan 8",
+    "bpm": "212",
+    "notes": 1690,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "RAGE feat.H14 of LEONAIR",
+    "bpm": "166",
+    "notes": 1886,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "SAMURAI-Scramble(L)",
+    "bpm": "150",
+    "notes": 1576,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 18,
+    "title": "灼熱Beach Side Bunny",
+    "bpm": "153",
+    "notes": 1719,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 23,
+    "title": "灼熱 Pt.2 Long Train Running",
+    "bpm": "165",
+    "notes": 1804,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Binary Black Hole",
+    "bpm": "190",
+    "notes": 2000,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Carmina",
+    "bpm": "195",
+    "notes": 2000,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Chrono Diver -PENDULUMs-",
+    "bpm": "196",
+    "notes": 2222,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Confiserie",
+    "bpm": "185",
+    "notes": 1833,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Elemental Creation",
+    "bpm": "212",
+    "notes": 2130,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "EMERALDAS",
+    "bpm": "88-176(176)",
+    "notes": 1833,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Everlasting Message",
+    "bpm": "230",
+    "notes": 1970,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Go Ahead!!",
+    "bpm": "200",
+    "notes": 1413,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "GO OVER WITH GLARE -ROOTAGE 26-",
+    "bpm": "170",
+    "notes": 2000,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "ICARUS(L)",
+    "bpm": "126-251(176)",
+    "notes": 2000,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "KAISER PHOENIX(L)",
+    "bpm": "170",
+    "notes": 2026,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "MEGAERA",
+    "bpm": "206",
+    "notes": 1790,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "perditus†paradisus",
+    "bpm": "172",
+    "notes": 2065,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "Phoenix(L)",
+    "bpm": "176",
+    "notes": 2027,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Sigmund",
+    "bpm": "200",
+    "notes": 2029,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Sinus Iridum",
+    "bpm": "128-256(128)",
+    "notes": 1803,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "TRANOID(L)",
+    "bpm": "130-190(130)",
+    "notes": 1546,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "駅猫のワルツ",
+    "bpm": "282",
+    "notes": 1558,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "焔極OVERKILL",
+    "bpm": "192",
+    "notes": 1901,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。(L)",
+    "bpm": "190",
+    "notes": 1907,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "X-DEN",
+    "bpm": "200",
+    "notes": 2220,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "共鳴遊戯の華",
+    "bpm": "190",
+    "notes": 2000,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 13,
+    "title": "嘆きの樹",
+    "bpm": "160",
+    "notes": 2000,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "IX",
+    "bpm": "198",
+    "notes": 2007,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "S",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "千年ノ理(L)",
+    "bpm": "153",
+    "notes": 2183,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "BroGamer(L)",
+    "bpm": "207",
+    "notes": 2383,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "ECHIDNA",
+    "bpm": "146",
+    "notes": 1775,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 27,
+    "title": "EROICA",
+    "bpm": "200",
+    "notes": 2040,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 27,
+    "title": "Lords Of The Roundtable",
+    "bpm": "174",
+    "notes": 1586,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 15,
+    "title": "Time to Air(L)",
+    "bpm": "191",
+    "notes": 1888,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "Timepiece phase II (CN Ver.)",
+    "bpm": "287",
+    "notes": 1544,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "WHA",
+    "bpm": "108",
+    "notes": 1946,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "S",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "ディスコルディア",
+    "bpm": "180-280(280)",
+    "notes": 2073,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "Almagest",
+    "bpm": "178",
+    "notes": 1629,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Ancient Scapes(L)",
+    "bpm": "178",
+    "notes": 2198,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "Anisakis -somatic mutation type \"Forza\"-(L)",
+    "bpm": "185",
+    "notes": 1971,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "B4U(BEMANI FOR YOU MIX)(L)",
+    "bpm": "170",
+    "notes": 2360,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Blue Spring Express",
+    "bpm": "172",
+    "notes": 1728,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "CHRONO DIVER -NORNIR-(L)",
+    "bpm": "185",
+    "notes": 2233,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 13,
+    "title": "CONTRACT(L)",
+    "bpm": "180",
+    "notes": 1418,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Dans la nuit de l'eternite",
+    "bpm": "244",
+    "notes": 1830,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "EBONY & IVORY(L)",
+    "bpm": "113-170(170)",
+    "notes": 1887,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Ignis†Irae",
+    "bpm": "188-191(191)",
+    "notes": 1970,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Initiation",
+    "bpm": "160",
+    "notes": 2018,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "NZM",
+    "bpm": "190",
+    "notes": 1783,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "PARADISE LOST",
+    "bpm": "200",
+    "notes": 1718,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Quakes",
+    "bpm": "190",
+    "notes": 1654,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "REVOLVER(L)",
+    "bpm": "160",
+    "notes": 1738,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Smashing Wedge",
+    "bpm": "215",
+    "notes": 1957,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "THE F∀UST",
+    "bpm": "170",
+    "notes": 1851,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "VANESSA(L)",
+    "bpm": "185",
+    "notes": 1771,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "-65℃",
+    "bpm": "186",
+    "notes": 1912,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "シムルグの目醒め",
+    "bpm": "190",
+    "notes": 1822,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "煉獄のエルフェリア",
+    "bpm": "183",
+    "notes": 2000,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;",
+    "bpm": "185",
+    "notes": 2192,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "∀",
+    "bpm": "180",
+    "notes": 1802,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 19,
+    "title": "BLACK.by X-Cross Fade",
+    "bpm": "163",
+    "notes": 1738,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 21,
+    "title": "invoker(L)",
+    "bpm": "195",
+    "notes": 1851,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "Level 3",
+    "bpm": "175",
+    "notes": 1844,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 26,
+    "title": "Red. by Jack Trance",
+    "bpm": "160",
+    "notes": 1862,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 22,
+    "title": "Reflux",
+    "bpm": "150",
+    "notes": 1574,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 27,
+    "title": "SCREW // owo // SCREW",
+    "bpm": "114",
+    "notes": 1567,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 25,
+    "title": "The Chase",
+    "bpm": "142",
+    "notes": 1148,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "THE PEERLESS UNDER HEAVEN",
+    "bpm": "170",
+    "notes": 1818,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "Thor's Hammer",
+    "bpm": "150",
+    "notes": 1641,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 19,
+    "title": "TITANS RETURN(L)",
+    "bpm": "97-194(194)",
+    "notes": 1377,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "TOMAHAWK",
+    "bpm": "215",
+    "notes": 1830,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "Zirkfied",
+    "bpm": "210",
+    "notes": 1968,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "ピアノ独奏無言歌 \"灰燼\"",
+    "bpm": "100-200(150)",
+    "notes": 1977,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "A+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 23,
+    "title": "真 地獄超特急 -HELL or HELL-",
+    "bpm": "165",
+    "notes": 1727,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "ABSOLUTE EVIL",
+    "bpm": "200",
+    "notes": 1778,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "ALTERNATOR",
+    "bpm": "185",
+    "notes": 1907,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Artist",
+    "bpm": "165",
+    "notes": 1870,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "Bad Maniacs",
+    "bpm": "195",
+    "notes": 1656,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "BEAT PRISONER",
+    "bpm": "155",
+    "notes": 1844,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "BLACK or WHITE?",
+    "bpm": "185",
+    "notes": 2013,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "Blue Rain(L)",
+    "bpm": "144",
+    "notes": 1702,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Close the World feat.a☆ru(L)",
+    "bpm": "188",
+    "notes": 1983,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "COSMIC RAY",
+    "bpm": "195",
+    "notes": 1509,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "DEATH†ZIGOQ ～怒りの高速爆走野郎～",
+    "bpm": "200",
+    "notes": 2075,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Despair of ELFERIA",
+    "bpm": "205",
+    "notes": 2096,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Devil's Gear",
+    "bpm": "180",
+    "notes": 1793,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "DORNWALD ～Junge～",
+    "bpm": "169",
+    "notes": 1903,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Dynamite",
+    "bpm": "100",
+    "notes": 1954,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "EXUSIA",
+    "bpm": "188",
+    "notes": 1964,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Feel The Beat(L)",
+    "bpm": "175",
+    "notes": 2225,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "G59",
+    "bpm": "170",
+    "notes": 2000,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 13,
+    "title": "Ganymede(L)",
+    "bpm": "72-82(82)",
+    "notes": 1356,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "GuNGNiR",
+    "bpm": "222",
+    "notes": 2081,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "HADES",
+    "bpm": "145",
+    "notes": 1601,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "HAERETICUS",
+    "bpm": "208",
+    "notes": 1589,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "KAISER PHOENIX",
+    "bpm": "170",
+    "notes": 1693,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
+    "bpm": "195",
+    "notes": 1775,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "LOCUS OF THE TRAVEL",
+    "bpm": "182",
+    "notes": 1920,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "MENDES",
+    "bpm": "168",
+    "notes": 1831,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Painful Fate",
+    "bpm": "192",
+    "notes": 1702,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "quell～the seventh slave～",
+    "bpm": "162",
+    "notes": 1646,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "Secrets(L)",
+    "bpm": "150",
+    "notes": 2116,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "SOLID STATE SQUAD(L)",
+    "bpm": "155",
+    "notes": 1868,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "THE BRAVE MUST DIE",
+    "bpm": "215",
+    "notes": 2075,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "The Rebellion of Sequencer",
+    "bpm": "300",
+    "notes": 1634,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Tiempo Loco",
+    "bpm": "180",
+    "notes": 1884,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Triple Counter",
+    "bpm": "216",
+    "notes": 2016,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "TRIUMPH",
+    "bpm": "183",
+    "notes": 1724,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Verflucht",
+    "bpm": "180",
+    "notes": 1805,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "voltississimo",
+    "bpm": "225",
+    "notes": 1888,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 13,
+    "title": "waxing and wanding(L)",
+    "bpm": "191",
+    "notes": 2000,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "ZEPHYRANTHES(L)",
+    "bpm": "180",
+    "notes": 1982,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "255",
+    "bpm": "255",
+    "notes": 1676,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "二人ノ廃城幽踊宴",
+    "bpm": "280-316(290)",
+    "notes": 1927,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "お菓子の王国",
+    "bpm": "190",
+    "notes": 2109,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "閠槞彁の願い",
+    "bpm": "180",
+    "notes": 1613,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "烽火連天の刃",
+    "bpm": "190",
+    "notes": 1771,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "君のハートにロックオン(L)",
+    "bpm": "260",
+    "notes": 1828,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "金野火織の金色提言",
+    "bpm": "225",
+    "notes": 1630,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 12,
+    "title": "冥",
+    "bpm": "66-200(200)",
+    "notes": 2000,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "ピアノ協奏曲第1番”蠍火” (BlackY Remix)",
+    "bpm": "160",
+    "notes": 1926,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "世界の果てに約束の凱歌を -ReUnion-",
+    "bpm": "200",
+    "notes": 1983,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "天空の夜明け",
+    "bpm": "150",
+    "notes": 2072,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "仮想空間の旅人たち(L)",
+    "bpm": "151",
+    "notes": 1943,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "伐折羅-vajra-",
+    "bpm": "173",
+    "notes": 1877,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "華麗なる大犬円舞曲",
+    "bpm": "60-147(142)",
+    "notes": 1849,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲(L)",
+    "bpm": "150",
+    "notes": 2110,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 17,
+    "title": "AIR RAID FROM THA UNDAGROUND(L)",
+    "bpm": "180",
+    "notes": 1523,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "Don't believe the hype",
+    "bpm": "210",
+    "notes": 1666,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 26,
+    "title": "Level One",
+    "bpm": "173",
+    "notes": 1857,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "Purple Perplex",
+    "bpm": "150",
+    "notes": 1578,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 12,
+    "title": "Scripted Connection⇒ A mix(L)",
+    "bpm": "151",
+    "notes": 1749,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 15,
+    "title": "STEEL NEEDLE(L)",
+    "bpm": "205",
+    "notes": 1701,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 23,
+    "title": "199024club -Re:BounceKiller-",
+    "bpm": "143",
+    "notes": 1260,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "2 Beasts Unchained",
+    "bpm": "175",
+    "notes": 1780,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 16,
+    "title": "3y3s",
+    "bpm": "191",
+    "notes": 1871,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "バッド・スイーツ、バッド・ドリーム",
+    "bpm": "220",
+    "notes": 1862,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "音楽",
+    "bpm": "210-360(245)",
+    "notes": 1487,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "A",
+    "ind_diff": true,
+    "level": 12,
+    "version": 11,
+    "title": "ピアノ協奏曲第１番”蠍火”",
+    "bpm": "165-185(185)",
+    "notes": 1414,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "ANCHOR",
+    "bpm": "180",
+    "notes": 1835,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Antigravity",
+    "bpm": "222",
+    "notes": 1591,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "DEADHEAT",
+    "bpm": "200",
+    "notes": 1721,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Empire of Fury",
+    "bpm": "204",
+    "notes": 1700,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "fallen leaves -IIDX edition-",
+    "bpm": "165",
+    "notes": 1745,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Grand Chariot",
+    "bpm": "191",
+    "notes": 1775,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "JOMANDA",
+    "bpm": "90-300(195)",
+    "notes": 1918,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Macho Monky",
+    "bpm": "150",
+    "notes": 1588,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "NEW GENERATION -もう、お前しか見えない-(L)",
+    "bpm": "165",
+    "notes": 1895,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 10,
+    "title": "One More Lovely",
+    "bpm": "200",
+    "notes": 1452,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "ORCA",
+    "bpm": "155",
+    "notes": 1795,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+    "bpm": "178",
+    "notes": 2271,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Shooting Fireball",
+    "bpm": "160",
+    "notes": 1983,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Skreaming for Salvation",
+    "bpm": "200",
+    "notes": 1625,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Snakey Kung-fu",
+    "bpm": "156",
+    "notes": 1751,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "STARLIGHT DANCEHALL(L)",
+    "bpm": "177",
+    "notes": 1712,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "StrayedCatz",
+    "bpm": "303",
+    "notes": 1490,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "SYNC-ANTHEM",
+    "bpm": "160-166(160)",
+    "notes": 1865,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "The Limbo",
+    "bpm": "200",
+    "notes": 1701,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "TOXIC VIBRATION",
+    "bpm": "197",
+    "notes": 1933,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 12,
+    "title": "Twelfth Style(L)",
+    "bpm": "160",
+    "notes": 1684,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Unbelief",
+    "bpm": "135",
+    "notes": 1675,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Visterhv",
+    "bpm": "191",
+    "notes": 1869,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "YAKSHA",
+    "bpm": "190",
+    "notes": 2000,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "抱きしめてモナムール",
+    "bpm": "190",
+    "notes": 2110,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "キャトられ恋はモ～モク",
+    "bpm": "196",
+    "notes": 1988,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "bpm": "190",
+    "notes": 1835,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "東京神話",
+    "bpm": "196",
+    "notes": 1505,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "津軽雪",
+    "bpm": "160",
+    "notes": 1953,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 11,
+    "title": "Be quiet(L)",
+    "bpm": "150",
+    "notes": 1463,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 25,
+    "title": "Boomy and The Boost",
+    "bpm": "174",
+    "notes": 1826,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 23,
+    "title": "DIAMOND CROSSING",
+    "bpm": "180",
+    "notes": 1585,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "GiGaGaHell",
+    "bpm": "250",
+    "notes": 1687,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "Hollywood Galaxy",
+    "bpm": "186",
+    "notes": 1392,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 27,
+    "title": "Inferno of Fomalhaut",
+    "bpm": "150",
+    "notes": 1701,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 19,
+    "title": "Snake Stick",
+    "bpm": "145",
+    "notes": 1447,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "STULTI",
+    "bpm": "90-182(182)",
+    "notes": 1416,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "火影",
+    "bpm": "136",
+    "notes": 1437,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "逆月",
+    "bpm": "280",
+    "notes": 1920,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B+",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "水鏡の異界",
+    "bpm": "168",
+    "notes": 1661,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "AA -rebuild-",
+    "bpm": "174",
+    "notes": 1820,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Angel's Ladder",
+    "bpm": "155",
+    "notes": 1800,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "bpm": "150",
+    "notes": 1752,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "BITTER CHOCOLATE STRIKER",
+    "bpm": "165",
+    "notes": 1990,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "BLUE DRAGON(雷龍RemixIIDX)",
+    "bpm": "188",
+    "notes": 1727,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Broken Sword",
+    "bpm": "160",
+    "notes": 1887,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "Candy Galy",
+    "bpm": "184",
+    "notes": 1798,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "cinder",
+    "bpm": "216",
+    "notes": 1601,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Close the World feat.a☆ru",
+    "bpm": "188",
+    "notes": 1739,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "CODE:1［revision1.0.1］",
+    "bpm": "145",
+    "notes": 1590,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "Colorful Cookie",
+    "bpm": "180",
+    "notes": 1773,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "Dances with Snow Fairies",
+    "bpm": "154",
+    "notes": 1623,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Devilz Staircase",
+    "bpm": "185",
+    "notes": 1685,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "DropZ-Line-",
+    "bpm": "50-400(200)",
+    "notes": 1648,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "DUAL STRIKER",
+    "bpm": "185",
+    "notes": 1960,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "entelecheia",
+    "bpm": "185",
+    "notes": 1657,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Flying Castle",
+    "bpm": "174",
+    "notes": 1877,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "GENE",
+    "bpm": "163",
+    "notes": 2183,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "HARD BRAIN",
+    "bpm": "155",
+    "notes": 1914,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Illusionary Waterlily",
+    "bpm": "180",
+    "notes": 1803,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "INSOMNIA",
+    "bpm": "195",
+    "notes": 1661,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "KILL EACH OTHER",
+    "bpm": "162",
+    "notes": 1945,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "LASER CRUSTER (IGNITE REMIX)",
+    "bpm": "174",
+    "notes": 1824,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 12,
+    "title": "Little Little Princess(L)",
+    "bpm": "180-212(212)",
+    "notes": 1946,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "M4K3 1T B0UNC3",
+    "bpm": "150",
+    "notes": 1546,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Monopole.",
+    "bpm": "201",
+    "notes": 1729,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "neu",
+    "bpm": "199",
+    "notes": 1999,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "NITROUS CANNON",
+    "bpm": "169",
+    "notes": 1875,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "One for All",
+    "bpm": "195",
+    "notes": 1632,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "OTENAMI Hurricane",
+    "bpm": "215",
+    "notes": 1643,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Proof of the existence",
+    "bpm": "170",
+    "notes": 1675,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "QUANTUM TELEPORTATION(L)",
+    "bpm": "152",
+    "notes": 1845,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "quaver♪",
+    "bpm": "182-186(182)",
+    "notes": 1745,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "ra'am",
+    "bpm": "111-222(111)",
+    "notes": 1461,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "refrain",
+    "bpm": "158",
+    "notes": 1857,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "reunion",
+    "bpm": "184",
+    "notes": 1677,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "ruin of opals",
+    "bpm": "220-390(355)",
+    "notes": 1646,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "Session 9 -Chronicles-",
+    "bpm": "182-189(182)",
+    "notes": 1852,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Sky High",
+    "bpm": "153",
+    "notes": 1943,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Slipstream",
+    "bpm": "175",
+    "notes": 1822,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Smalt #28598F",
+    "bpm": "151",
+    "notes": 1725,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Super Rush",
+    "bpm": "190",
+    "notes": 1791,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "bpm": "200",
+    "notes": 1636,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "THE DEEP STRIKER(L)",
+    "bpm": "173",
+    "notes": 1778,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Timepiece phase II",
+    "bpm": "287",
+    "notes": 1665,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Triple Cross",
+    "bpm": "196",
+    "notes": 1667,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "Ubertreffen(L)",
+    "bpm": "174",
+    "notes": 1655,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Valanga",
+    "bpm": "186",
+    "notes": 1647,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Vitrum",
+    "bpm": "146",
+    "notes": 1848,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Welcome(L)",
+    "bpm": "170",
+    "notes": 1701,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "X",
+    "bpm": "180",
+    "notes": 1952,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Xlo",
+    "bpm": "165",
+    "notes": 1988,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Xperanza",
+    "bpm": "200",
+    "notes": 1637,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "3!dolon Forc3",
+    "bpm": "191-96(191)",
+    "notes": 1513,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "龍と少女とデコヒーレンス(L)",
+    "bpm": "165",
+    "notes": 1713,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "童話回廊",
+    "bpm": "262",
+    "notes": 1592,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "ΕΛΠΙΣ(L)",
+    "bpm": "175",
+    "notes": 1852,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "魅惑のYUMMYスイーツ",
+    "bpm": "208",
+    "notes": 1586,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "不沈艦CANDY",
+    "bpm": "188",
+    "notes": 1682,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "リリーゼと炎龍レーヴァテイン",
+    "bpm": "200",
+    "notes": 1771,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "#MAGiCVLGiRL_TRVP_B3VTZ",
+    "bpm": "100",
+    "notes": 1753,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "神謳 -RESONANCE-",
+    "bpm": "180",
+    "notes": 2047,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "少年は空を辿る",
+    "bpm": "140",
+    "notes": 1729,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "たまゆら",
+    "bpm": "180",
+    "notes": 1407,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "轟け！恋のビーンボール！！",
+    "bpm": "180",
+    "notes": 1834,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "廿(L)",
+    "bpm": "120-160(120)",
+    "notes": 1731,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 23,
+    "title": "AO-1",
+    "bpm": "195",
+    "notes": 1443,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 11,
+    "title": "FAKE TIME",
+    "bpm": "200",
+    "notes": 1231,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 22,
+    "title": "Flashes",
+    "bpm": "180",
+    "notes": 1691,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 22,
+    "title": "IMPLANTATION",
+    "bpm": "145",
+    "notes": 1163,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 16,
+    "title": "Marie Antoinette(L)",
+    "bpm": "205-248(215)",
+    "notes": 1618,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 25,
+    "title": "Papilio ulysses",
+    "bpm": "180",
+    "notes": 1498,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 15,
+    "title": "PARANOiA ～HADES～",
+    "bpm": "75-300(300)",
+    "notes": 1395,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 17,
+    "title": "Red. by Full Metal Jacket",
+    "bpm": "158",
+    "notes": 1643,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 21,
+    "title": "VOX UP",
+    "bpm": "202",
+    "notes": 1870,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 18,
+    "title": "Watch Out Pt.2",
+    "bpm": "148",
+    "notes": 1506,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 16,
+    "title": "Y&Co. is dead or alive",
+    "bpm": "145-876(145)",
+    "notes": 1478,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "B",
+    "ind_diff": true,
+    "level": 12,
+    "version": 20,
+    "title": "アストライアの双皿",
+    "bpm": "173",
+    "notes": 1632,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "AKASHIC BREAK",
+    "bpm": "205",
+    "notes": 1823,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Amazing Mirage(L)",
+    "bpm": "153",
+    "notes": 1684,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Ancient Scapes",
+    "bpm": "178",
+    "notes": 1780,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "Arabian Rave Night(L)",
+    "bpm": "180",
+    "notes": 1888,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Cosmic Cat(L)",
+    "bpm": "160",
+    "notes": 1651,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "DARK LEGACY",
+    "bpm": "196",
+    "notes": 1828,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "dAuntl3ss",
+    "bpm": "166",
+    "notes": 1775,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "DAY DREAM",
+    "bpm": "80-300(80)",
+    "notes": 1075,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Dr. Chemical & Killing Machine",
+    "bpm": "165",
+    "notes": 1700,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "EBONY & IVORY",
+    "bpm": "170",
+    "notes": 1520,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "Evans",
+    "bpm": "185",
+    "notes": 1440,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "FANTASTIC THREE",
+    "bpm": "185",
+    "notes": 1649,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Friction［!］Function",
+    "bpm": "150",
+    "notes": 1634,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "FUZIN RIZIN",
+    "bpm": "190",
+    "notes": 1929,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Godspeed",
+    "bpm": "165",
+    "notes": 1631,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "GOLDEN CROSS",
+    "bpm": "150",
+    "notes": 1765,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Gravigazer",
+    "bpm": "160",
+    "notes": 1533,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Idola",
+    "bpm": "201",
+    "notes": 1826,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "innocent revolver",
+    "bpm": "310",
+    "notes": 1990,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Invitation from Mr.C",
+    "bpm": "230",
+    "notes": 1405,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Konzert V",
+    "bpm": "160",
+    "notes": 1710,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "L.F.O",
+    "bpm": "180",
+    "notes": 1687,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Last Dance",
+    "bpm": "150",
+    "notes": 1650,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Lethal Weapon",
+    "bpm": "90-180(180)",
+    "notes": 1646,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "LIVE DRIVING!! feat. 花たん",
+    "bpm": "190",
+    "notes": 1947,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "LOST TECHNOLOGIE",
+    "bpm": "157",
+    "notes": 1822,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "NEO GENERATOR SEVEN",
+    "bpm": "182",
+    "notes": 1690,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Nightmare before oversleep",
+    "bpm": "190",
+    "notes": 1500,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "NNRT",
+    "bpm": "101-202(101)",
+    "notes": 1780,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
+    "bpm": "164-172(168)",
+    "notes": 1748,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 12,
+    "title": "rage against usual",
+    "bpm": "152",
+    "notes": 1527,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "RAIN",
+    "bpm": "159",
+    "notes": 1657,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Rave Patroller",
+    "bpm": "175",
+    "notes": 1705,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "rommmo",
+    "bpm": "208",
+    "notes": 1762,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "SAY BAY",
+    "bpm": "165",
+    "notes": 1455,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Sol Cosine Job 2",
+    "bpm": "190-200(190)",
+    "notes": 1625,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "bpm": "186",
+    "notes": 1670,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Sounds Of Summer",
+    "bpm": "175",
+    "notes": 1513,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 11,
+    "title": "spiral galaxy(L)",
+    "bpm": "154",
+    "notes": 1910,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "TECHNO Style Essentials",
+    "bpm": "154",
+    "notes": 1453,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "THANK YOU FOR PLAYING(L)",
+    "bpm": "45-170(170)",
+    "notes": 1534,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "THE DAY OF JUBILATIONS",
+    "bpm": "181",
+    "notes": 1757,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "thunder HOUSE NATION Remix(L)",
+    "bpm": "128",
+    "notes": 1954,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Vinculum stellarum",
+    "bpm": "160",
+    "notes": 1873,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Viridian",
+    "bpm": "161",
+    "notes": 1700,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "We're so Happy (P*Light Remix) IIDX ver.",
+    "bpm": "185",
+    "notes": 1896,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "WONDER WALKER",
+    "bpm": "165",
+    "notes": 1921,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Ypsilon(L)",
+    "bpm": "160",
+    "notes": 1801,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "子供の落書き帳",
+    "bpm": "280",
+    "notes": 1395,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "イザナミノナゲキ",
+    "bpm": "195",
+    "notes": 1661,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "疾風迅雷",
+    "bpm": "180",
+    "notes": 1493,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "めいさいアイドル☆あいむちゃん♪",
+    "bpm": "160",
+    "notes": 1717,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "禊",
+    "bpm": "160",
+    "notes": 1631,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "夏色DIARY - L.E.D.-G STYLE MIX -",
+    "bpm": "190",
+    "notes": 1590,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "深淵に捧ぐレクイエム",
+    "bpm": "175",
+    "notes": 1537,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "シュレーディンガーの猫",
+    "bpm": "187",
+    "notes": 1717,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "旋律のドグマ～Miserables～",
+    "bpm": "192",
+    "notes": 2002,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "それは花火のような恋",
+    "bpm": "182",
+    "notes": 1976,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "トリカゴノ鳳凰",
+    "bpm": "185",
+    "notes": 1932,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 21,
+    "title": "Adularia",
+    "bpm": "180",
+    "notes": 1449,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 29,
+    "title": "Aftermath",
+    "bpm": "200",
+    "notes": 1828,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 22,
+    "title": "BLUE MIRAGE",
+    "bpm": "170",
+    "notes": 1606,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 27,
+    "title": "Level 2",
+    "bpm": "150",
+    "notes": 1488,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 18,
+    "title": "New Castle Legions",
+    "bpm": "120-180(120)",
+    "notes": 1418,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 26,
+    "title": "ONIGOROSHI",
+    "bpm": "400",
+    "notes": 1541,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 22,
+    "title": "Rave*it!! Rave*it!!",
+    "bpm": "282",
+    "notes": 1656,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 14,
+    "title": "Sense 2007",
+    "bpm": "140",
+    "notes": 1517,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "TOGAKUSHI",
+    "bpm": "152",
+    "notes": 1343,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 22,
+    "title": "ZZ",
+    "bpm": "154",
+    "notes": 1541,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "スーパー戦湯ババンバーン",
+    "bpm": "187",
+    "notes": 1755,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "C",
+    "ind_diff": true,
+    "level": 12,
+    "version": 21,
+    "title": "海神",
+    "bpm": "159",
+    "notes": 1629,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 11,
+    "title": "AA",
+    "bpm": "154",
+    "notes": 1834,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "ALBIDA",
+    "bpm": "185",
+    "notes": 1530,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Beat Radiance(L)",
+    "bpm": "192",
+    "notes": 1809,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "BIGソムタム",
+    "bpm": "187",
+    "notes": 1688,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "Broken",
+    "bpm": "148",
+    "notes": 1598,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Catch Our Fire!",
+    "bpm": "190",
+    "notes": 1885,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "DOMINION",
+    "bpm": "196",
+    "notes": 1636,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Double Dribble",
+    "bpm": "210",
+    "notes": 1683,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Drastic Dramatic",
+    "bpm": "166",
+    "notes": 1765,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "DRUNK MONKY",
+    "bpm": "145",
+    "notes": 1177,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "EVANESCENT",
+    "bpm": "127-165(161)",
+    "notes": 1845,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "Feel The Beat",
+    "bpm": "175",
+    "notes": 1830,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Fegrix",
+    "bpm": "175",
+    "notes": 1687,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "fffff",
+    "bpm": "138",
+    "notes": 1624,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "FIRE FIRE",
+    "bpm": "150",
+    "notes": 1405,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "GAIA",
+    "bpm": "180",
+    "notes": 1676,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "Highcharge Divolt",
+    "bpm": "200",
+    "notes": 1421,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "Kung-fu Empire(L)",
+    "bpm": "177",
+    "notes": 1999,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Matt Silver",
+    "bpm": "146",
+    "notes": 1707,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Megalara Garuda",
+    "bpm": "180",
+    "notes": 1543,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "oratio",
+    "bpm": "162",
+    "notes": 1493,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Persephone",
+    "bpm": "155",
+    "notes": 1539,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "POSSESSION",
+    "bpm": "23-185(185)",
+    "notes": 1521,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "PUNISHER",
+    "bpm": "180",
+    "notes": 1812,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Rampage",
+    "bpm": "195",
+    "notes": 1831,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Rave Cannon",
+    "bpm": "160",
+    "notes": 1700,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Say YEEEAHH",
+    "bpm": "135",
+    "notes": 1667,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 12,
+    "title": "Scripted Connection⇒ A mix",
+    "bpm": "151",
+    "notes": 1575,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "Silver Bullet",
+    "bpm": "152-172(168)",
+    "notes": 1662,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 17,
+    "title": "SOLID STATE SQUAD",
+    "bpm": "155",
+    "notes": 1819,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "SpaceLand☆TOYBOX",
+    "bpm": "172",
+    "notes": 1501,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "The Least 100sec",
+    "bpm": "200-264(264)",
+    "notes": 1505,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "The Sampling Paradise",
+    "bpm": "150",
+    "notes": 1545,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "Thunderbolt",
+    "bpm": "188",
+    "notes": 1911,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "TIEFSEE",
+    "bpm": "165",
+    "notes": 1752,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Trill auf G",
+    "bpm": "188",
+    "notes": 1670,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "True Blue",
+    "bpm": "164",
+    "notes": 1898,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 5,
+    "title": "V",
+    "bpm": "150",
+    "notes": 1519,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 29,
+    "title": "天邪鬼",
+    "bpm": "155",
+    "notes": 1693,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "紫陽花 -AZISAI-",
+    "bpm": "155",
+    "notes": 1490,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "刃図羅",
+    "bpm": "165",
+    "notes": 1746,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "電人、暁に斃れる。",
+    "bpm": "165",
+    "notes": 1725,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "表裏一体！？怪盗いいんちょの悩み",
+    "bpm": "165",
+    "notes": 1815,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 13,
+    "title": "カゴノトリ～弐式～",
+    "bpm": "140",
+    "notes": 1325,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "恋する☆宇宙戦争っ！！",
+    "bpm": "200",
+    "notes": 1835,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "狂イ咲ケ焔ノ華",
+    "bpm": "206",
+    "notes": 1860,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "九尾狐夜行",
+    "bpm": "145",
+    "notes": 1521,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "聖人の塔",
+    "bpm": "97-194(97)",
+    "notes": 1567,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "〆",
+    "bpm": "160",
+    "notes": 1877,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "最小三倍完全数",
+    "bpm": "220",
+    "notes": 1314,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "即席！脳直★ミュージックシステム",
+    "bpm": "197",
+    "notes": 1838,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "Caterpillar",
+    "bpm": "170",
+    "notes": 1561,
+    "radar": "SCRATCH"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 17,
+    "title": "eRAseRmOToRpHAntOM",
+    "bpm": "135-270(135)",
+    "notes": 1686,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 14,
+    "title": "Fascination MAXX",
+    "bpm": "100-400(100)",
+    "notes": 1313,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "Fire Beat",
+    "bpm": "157-300(157)",
+    "notes": 1392,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 17,
+    "title": "mosaic",
+    "bpm": "188",
+    "notes": 1509,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 8,
+    "title": "PLEASE DON'T GO",
+    "bpm": "135",
+    "notes": 1251,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 28,
+    "title": "魔法のかくれんぼ",
+    "bpm": "178-208(178)",
+    "notes": 1454,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "D",
+    "ind_diff": true,
+    "level": 12,
+    "version": 17,
+    "title": "ワルツ第17番 ト短調”大犬のワルツ”",
+    "bpm": "230-320(300)",
+    "notes": 1684,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Apocalypse",
+    "bpm": "165",
+    "notes": 1814,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Arca",
+    "bpm": "185",
+    "notes": 1602,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Carry Me Away",
+    "bpm": "175",
+    "notes": 1613,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 6,
+    "title": "Colors (radio edit)",
+    "bpm": "150",
+    "notes": 1258,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 13,
+    "title": "Concertino in Blue",
+    "bpm": "103-155(140)",
+    "notes": 1311,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "encounter",
+    "bpm": "190",
+    "notes": 1679,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "F",
+    "bpm": "154",
+    "notes": 1813,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 11,
+    "title": "gigadelic(H)",
+    "bpm": "173",
+    "notes": 1116,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 11,
+    "title": "gigadelic",
+    "bpm": "173",
+    "notes": 1301,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 16,
+    "title": "Go Beyond!!",
+    "bpm": "200",
+    "notes": 1166,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 21,
+    "title": "invoker",
+    "bpm": "195",
+    "notes": 1624,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "LASER CRUSTER",
+    "bpm": "152",
+    "notes": 1644,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Liberation",
+    "bpm": "150",
+    "notes": 1905,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "LIGHTNING STRIKES",
+    "bpm": "174",
+    "notes": 1639,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "Little Star",
+    "bpm": "183",
+    "notes": 1635,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 9,
+    "title": "moon_child",
+    "bpm": "130-160(146)",
+    "notes": 1300,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 23,
+    "title": "NINJA IS DEAD IIDX ver.",
+    "bpm": "111-222(222)",
+    "notes": 1520,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 28,
+    "title": "Parvati",
+    "bpm": "205",
+    "notes": 1467,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 26,
+    "title": "Please Welcome Mr.C",
+    "bpm": "230",
+    "notes": 1522,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 25,
+    "title": "Raspberry Railgun",
+    "bpm": "142",
+    "notes": 1606,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 11,
+    "title": "RED ZONE(L)",
+    "bpm": "165",
+    "notes": 1566,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Summerlights(IIDX Edition)",
+    "bpm": "175",
+    "notes": 1580,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "Symmetry",
+    "bpm": "163",
+    "notes": 1659,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 19,
+    "title": "Todestrieb",
+    "bpm": "185",
+    "notes": 1733,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "VANESSA",
+    "bpm": "185",
+    "notes": 1228,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 24,
+    "title": "Venom",
+    "bpm": "190",
+    "notes": 1624,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "紅牡丹",
+    "bpm": "181",
+    "notes": 1445,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 20,
+    "title": "ΕΛΠΙΣ",
+    "bpm": "175",
+    "notes": 1600,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "少年A",
+    "bpm": "90-192(90)",
+    "notes": 1449,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "黒髪乱れし修羅となりて",
+    "bpm": "150",
+    "notes": 1745,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "E",
+    "ind_diff": false,
+    "level": 12,
+    "version": 22,
+    "title": "千年ノ理",
+    "bpm": "153",
+    "notes": 1608,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 13,
+    "title": "DUE TOMORROW",
+    "bpm": "100-400(400)",
+    "notes": 1073,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 14,
+    "title": "GRID KNIGHT(L)",
+    "bpm": "160",
+    "notes": 1744,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 15,
+    "title": "ICARUS",
+    "bpm": "126-251(176)",
+    "notes": 1301,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 10,
+    "title": "Innocent Walls(H)",
+    "bpm": "155",
+    "notes": 1281,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 10,
+    "title": "Innocent Walls",
+    "bpm": "155",
+    "notes": 1446,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 9,
+    "title": "one or eight",
+    "bpm": "155",
+    "notes": 1177,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 12,
+    "title": "SCREAM SQUAD",
+    "bpm": "220",
+    "notes": 1073,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 24,
+    "title": "Steel Edge",
+    "bpm": "177",
+    "notes": 1604,
+    "radar": "CHARGE"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 15,
+    "title": "TROOPERS",
+    "bpm": "177",
+    "notes": 1496,
+    "radar": "CHORD"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 8,
+    "title": "桜",
+    "bpm": "13-320(300)",
+    "notes": 1123,
+    "radar": "SOF-LAN"
+  },
+  {
+    "tier": "E",
+    "ind_diff": true,
+    "level": 12,
+    "version": 10,
+    "title": "雪月花",
+    "bpm": "151",
+    "notes": 1287,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "F",
+    "ind_diff": false,
+    "level": 12,
+    "version": 7,
+    "title": "A",
+    "bpm": "93-191(93)",
+    "notes": 1260,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "F",
+    "ind_diff": false,
+    "level": 12,
+    "version": 27,
+    "title": "Primitive Vibes",
+    "bpm": "150",
+    "notes": 1564,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "F",
+    "ind_diff": false,
+    "level": 12,
+    "version": 15,
+    "title": "Ristaccia",
+    "bpm": "160",
+    "notes": 1386,
+    "radar": "PEAK"
+  },
+  {
+    "tier": "F",
+    "ind_diff": false,
+    "level": 12,
+    "version": 14,
+    "title": "snow storm(L)",
+    "bpm": "145",
+    "notes": 1709,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "F",
+    "ind_diff": false,
+    "level": 12,
+    "version": 18,
+    "title": "SPECIAL SUMMER CAMPAIGN!",
+    "bpm": "168",
+    "notes": 1509,
+    "radar": "NOTES"
+  },
+  {
+    "tier": "F",
+    "ind_diff": true,
+    "level": 12,
+    "version": 18,
+    "title": "sakura storm",
+    "bpm": "184",
+    "notes": 1225,
+    "radar": "NOTES"
+  }
+]

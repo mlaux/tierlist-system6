@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+titles
+genres
+artists
+out.json
+out.r
+
