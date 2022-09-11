@@ -43,7 +43,7 @@ function findMusicDbSong(title) {
 
   result = bistro_db['data'].filter(song => levenshtein(song.title, title) < 4);
   if (result.length) {
-    console.log(`using approximate match ${result[0].title} for ${title}`);
+    console.warn(`using approximate match ${result[0].title} for ${title}`);
     return result[0];
   }
 
@@ -51,9 +51,9 @@ function findMusicDbSong(title) {
 }
 
 let notFound = 0;
-let titleId = 128;
-let artistId = 128;
-let genreId = 128;
+let titleId = 256;
+let artistId = 512;
+let genreId = 768;
 
 for (let k = 0; k < atwiki_db.length; k++) {
   const atwiki_song = atwiki_db[k];
@@ -70,11 +70,11 @@ for (let k = 0; k < atwiki_db.length; k++) {
 
   atwiki_song.artist = lookup.artist;
   atwiki_song.genre = lookup.genre;
+  atwiki_song.title_ascii = lookup.title_ascii;
 
   if (!isAscii(atwiki_song.title)) {
     console.log('generating title image for ' + atwiki_song.title);
     runConvert(atwiki_song.title, `titles/${titleId}.png`);
-    atwiki_song.title_ascii = lookup.title_ascii;
     atwiki_song.title_pict = titleId++;
   }
 
