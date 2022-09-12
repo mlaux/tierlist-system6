@@ -25,6 +25,9 @@ interface
 		SongListPtr = ^SongInfoList;
 		SongListHandle = ^SongListPtr;
 
+	const
+		CELL_HEIGHT = 32;
+
 implementation
 
 end.

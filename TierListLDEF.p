@@ -18,8 +18,9 @@ implementation
 	begin
 		pictRes := PicHandle(GetResource('PICT', id));
 		rct := cellRect;
-		rct.top := rct.top + 48 - pictRes^^.picFrame.bottom;
+		rct.bottom := rct.top + pictRes^^.picFrame.bottom;
 		rct.right := rct.left + pictRes^^.picFrame.right;
+		OffsetRect(rct, 4, 4);
 		DrawPicture(pictRes, rct);
 		ReleaseResource(Handle(pictRes));
 	end;
@@ -41,6 +42,10 @@ implementation
 			song: SongInfo;
 
 	begin
+		if message = lHiliteMsg then
+			begin
+				InvertRect(cellRect);
+			end;
 		if message <> lDrawMsg then
 			goto 1;
 
@@ -62,6 +67,9 @@ implementation
 			DrawPictResource(song.titlePict, cellRect)
 		else
 			DrawString(song.title);
+
+		if selected then
+			InvertRect(cellRect);
 
 		SetPort(savedPort);
 		SetClip(savedClip);
