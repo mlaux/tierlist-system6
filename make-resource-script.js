@@ -166,44 +166,50 @@ function makeSongList(db) {
     off++;
   }
 
-  function writePstr(str) {
+  function writePstr(str, len) {
     write8(str.length);
     out.write(str, off);
     off += str.length;
+    for (let k = str.length; k < len; k++) {
+      write8(0);
+    }
   }
 
-  write16(db.length);
-  for (let k = 0; k < 16 && k < db.length; k++) {
+  write16(0); // fill in with written later
+  let actualWritten = 0;
+  for (let k = 0; k < db.length; k++) {
     const song = db[k];
     if (song.version > 28) {
       continue;
     }
 
-    write8(song.version);
+    write16(song.version);
     if (song.title_pict) {
-      writePstr(song.title_ascii);
+      writePstr(song.title_ascii, 63);
     } else {
-      writePstr(song.title);
+      writePstr(song.title, 63);
     }
     if (song.artist_pict) {
-      writePstr('');
+      writePstr('', 63);
     } else {
-      writePstr(song.artist);
+      writePstr(song.artist, 63);
     }
     if (song.genre_pict) {
-      writePstr('');
+      writePstr('', 63);
     } else {
-      writePstr(song.genre);
+      writePstr(song.genre, 63);
     }
     write16(song.title_pict ? song.title_pict : 0);
     write16(song.artist_pict ? song.artist_pict : 0);
     write16(song.genre_pict ? song.genre_pict : 0);
-    writePstr(song.tier);
+    writePstr(song.tier, 3);
     write16(song.ind_diff ? 1 : 0);
-    writePstr(song.bpm);
+    writePstr(song.bpm, 15);
     write16(song.notes);
-    writePstr(song.radar);
+    writePstr(song.radar, 15);
+    ++actualWritten;
   }
+  out.writeInt16BE(actualWritten, 0); // fill in count
   return `data 'slst' (128) {\n${formatResourceData(out.subarray(0, off))}\n};`;
 }
 

@@ -13,7 +13,7 @@ for (var k = 0; k < h4s.length; k++) {
     tier = tier.substring(2, 4).trim();
   }
   if (tier === '(') {
-    tier = 'undecided';
+    tier = '?';
   }
 
   var table = tables[k].getElementsByTagName('tr');

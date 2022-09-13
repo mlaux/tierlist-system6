@@ -94,11 +94,17 @@ program TierList;
 { really only need the rect from this call }
 				GetDItem(mainWindow, pictItemId, itemType, itemHandle, itemRect);
 
+{ I don't know if this erase/inval strategy is correct but it seems to work }
+				EraseRect(itemRect);
+
 				pict := PicHandle(GetResource('PICT', pictId));
 				itemRect.right := itemRect.left + pict^^.picFrame.right;
 				itemRect.bottom := itemRect.top + pict^^.picFrame.bottom;
 				SetDItem(mainWindow, pictItemId, picItem, Handle(pict), itemRect);
 				ShowDItem(mainWindow, pictItemId);
+
+{ and here }
+				InvalRect(itemRect);
 			end
 		else
 			begin
@@ -130,13 +136,18 @@ program TierList;
 			itemType: integer;
 			itemHandle: Handle;
 			itemRect: Rect;
+			offset: longint;
+			temp: SongPtr;
 	begin
 		theCell.h := 0;
 		theCell.v := 0;
 		if not LGetSelect(true, theCell, songListControl) then
 			goto 1;
 
-		song := songData^^.songs[theCell.v];
+{ need to do a 32-bit offset here }
+		offset := longint(theCell.v) * sizeof(SongInfo);
+		temp := SongPtr(longint(@songData^^.songs) + offset);
+		song := temp^;
 
 		SwapTextOrPict(song.title, song.titlePict, ITEM_TITLE_TEXT, ITEM_TITLE_PICT);
 		SwapTextOrPict(song.artist, song.artistPict, ITEM_ARTIST_TEXT, ITEM_ARTIST_PICT);
@@ -173,12 +184,8 @@ program TierList;
 				done := TrackGoAway(evtWindow, evt.where);
 			otherwise
 				begin
-					if PtInRect(evt.where, songListControl^^.rView) then
-						begin
-							SetPort(songListControl^^.port);
-							GlobalToLocal(evt.where);
-							temp := LClick(evt.where, evt.modifiers, songListControl);
-						end;
+					GlobalToLocal(evt.where);
+					temp := LClick(evt.where, evt.modifiers, songListControl);
 				end;
 		end;
 	end;
@@ -187,6 +194,7 @@ program TierList;
 		var
 			evtWindow: WindowPtr;
 	begin
+		GlobalToLocal(evt.where);
 		if PtInRect(evt.where, songListControl^^.rView) then
 			UpdateSelectedSong;
 	end;

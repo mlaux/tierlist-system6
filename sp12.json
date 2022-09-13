@@ -1,6 +1,6 @@
 [
   {
-    "tier": "undecided",
+    "tier": "?",
     "ind_diff": false,
     "level": 12,
     "version": 29,
@@ -10,7 +10,7 @@
     "radar": "NOTES"
   },
   {
-    "tier": "undecided",
+    "tier": "?",
     "ind_diff": false,
     "level": 12,
     "version": 27,
@@ -20,7 +20,7 @@
     "radar": "CHORD"
   },
   {
-    "tier": "undecided",
+    "tier": "?",
     "ind_diff": false,
     "level": 12,
     "version": 24,
@@ -30,7 +30,7 @@
     "radar": "CHARGE"
   },
   {
-    "tier": "undecided",
+    "tier": "?",
     "ind_diff": false,
     "level": 12,
     "version": 15,
