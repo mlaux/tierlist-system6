@@ -15,40 +15,17 @@ interface
 
 implementation
 
-	function itoa (num: integer): string;
-		var
-			ret: string;
-			k: integer;
-			ch: char;
-	begin
-		k := 1;
-		repeat
-			ret[k] := chr((num mod 10) + ord('0'));
-			k := k + 1;
-			num := num div 10;
-		until num = 0;
-		ret[0] := chr(k - 1);
-{ reverse it }
-		for k := 1 to length(ret) div 2 do
-			begin
-				ch := ret[k];
-				ret[k] := ret[length(ret) - k + 1];
-				ret[length(ret) - k + 1] := ch;
-			end;
-		itoa := ret;
-	end;
-
 	procedure DrawPictResource (id: integer;
 									cellRect: Rect);
 		var
 			pictRes: PicHandle;
 			rct: Rect;
 	begin
-		pictRes := GetPicture(id);
+		pictRes := PicHandle(GetResource('PICT', id));
 		rct := cellRect;
 		rct.bottom := rct.top + pictRes^^.picFrame.bottom;
 		rct.right := rct.left + pictRes^^.picFrame.right;
-		OffsetRect(rct, 24, 1);
+		OffsetRect(rct, 20, 1);
 		DrawPicture(pictRes, rct);
 		ReleaseResource(Handle(pictRes));
 	end;
@@ -68,26 +45,12 @@ implementation
 			savedClip: RgnHandle;
 			savedPenState: PenState;
 			savedFont: integer;
-			cellData: ListCellData;
+			songData: SongListHandle;
 			offset: longint;
 			temp: SongPtr;
 			song: SongInfo;
-			theScore: Score;
-
-		var
-			clearTypes: array[0..7] of string;
 
 	begin
-{ I think this is the only way to do this since I can't have global variables in a LDEF }
-		clearTypes[0] := 'no play';
-		clearTypes[1] := 'failed';
-		clearTypes[2] := 'assist clear';
-		clearTypes[3] := 'easy clear';
-		clearTypes[4] := 'normal clear';
-		clearTypes[5] := 'hard clear';
-		clearTypes[6] := 'ex hard clear';
-		clearTypes[7] := 'full combo';
-
 		if message = lHiliteMsg then
 			begin
 				InvertRect(cellRect);
@@ -106,33 +69,30 @@ implementation
 		PenNormal;
 		TextFont(systemFont);
 
-		LGetCell(@cellData, dataLen, theCell, theList);
+		LGetCell(@songData, dataLen, theCell, theList);
 
 { song list can be larger than 32k so array index won't work }
 		offset := longint(theCell.v) * sizeof(SongInfo);
-		temp := SongPtr(longint(@cellData.songData^^.songs) + offset);
+		temp := SongPtr(longint(@songData^^.songs) + offset);
 		song := temp^;
-		theScore := cellData.scoreData^.scores[theCell.v];
 
 		EraseRect(cellRect);
 { FrameRect(cellRect); }
 
-		MoveTo(cellRect.left + 8, cellRect.top + 22);
+		MoveTo(cellRect.left + 4, cellRect.top + 22);
 		DrawString(song.tier);
 
 		if song.titlePict <> 0 then
 			DrawPictResource(song.titlePict, cellRect)
 		else
 			begin
-				MoveTo(cellRect.left + 24, cellRect.top + 14);
+				MoveTo(cellRect.left + 20, cellRect.top + 14);
 				DrawString(song.title);
 			end;
 
 		TextFont(geneva);
-		MoveTo(cellRect.left + 24, cellRect.top + 28);
-		DrawString(clearTypes[theScore.clearLamp]);
-		DrawString(', score: ');
-		DrawString(itoa(theScore.exScore));
+		MoveTo(cellRect.left + 20, cellRect.top + 28);
+		DrawString('no play, score: 0');
 
 		if selected then
 			InvertRect(cellRect);

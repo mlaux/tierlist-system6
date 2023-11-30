@@ -25,26 +25,6 @@ interface
 		SongListPtr = ^SongInfoList;
 		SongListHandle = ^SongListPtr;
 
-		Score = packed record
-				clearLamp: integer;
-				exScore: integer;
-				missCount: integer;
-				timestamp: longint;
-			end;
-		ScorePtr = ^Score;
-		ScoreHandle = ^ScorePtr;
-
-		ScoreList = packed record
-				scores: array[0..0] of Score;
-			end;
-		ScoreListPtr = ^ScoreList;
-		ScoreListHandle = ^ScoreListPtr;
-
-		ListCellData = record
-				songData: SongListHandle;
-				scoreData: ScoreListPtr;
-			end;
-
 	const
 		CELL_HEIGHT = 32;
 

@@ -213,12 +213,20 @@ function makeSongList(db) {
   return `data 'slst' (128) {\n${formatResourceData(out.subarray(0, off))}\n};`;
 }
 
-const dir = fs.readdirSync('titles/');
-let result = '';
-for (let k = 0; k < dir.length; k++) {
-  result += convertToPict(`titles/${dir[k]}`);
+function convertDirectory(name) {
+  const dir = fs.readdirSync(name);
+  let result = '';
+  for (let k = 0; k < dir.length; k++) {
+    result += convertToPict(`${name}/${dir[k]}`);
+  }
+  return result;
 }
+
+let result = '';
+result += convertDirectory('titles');
+result += convertDirectory('artists');
+result += convertDirectory('genres');
 
 result += makeSongList(JSON.parse(fs.readFileSync('out.json')));
 
-fs.writeFileSync('out.r', result);
+fs.writeFileSync('SongData.r', result);
