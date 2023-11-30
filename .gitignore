@@ -5,4 +5,4 @@ genres
 artists
 out.json
 *.r
-*.bin
+SongDataResources.bin
